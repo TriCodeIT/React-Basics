@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Ganti Yuk !!! <code>src/App.js</code> diganti ya React !!!
         </p>
         <a
           className="App-link"
@@ -23,4 +23,12 @@ function App() {
   );
 }
 
+//Kelemahan membuat component pakai function yaitu tidak bisa membuat state, jika dipaksakan membuat state harus menggunakan React Hook 
+
 export default App;
+
+/*
+  componentDidMount() {  } artinya setelah terpasang mau diapakan (saat membuat Tag lalu ditempelkan dalam HTML)
+  componentWillUnmount() {  } artinya ketika componentnya mau dilepaskan dari HTML (saat Pindah Halaman)
+  setInterval artinya fungsi bawaan javascript yang behaviournya dia bisa mengeksekusi fungsi berdasarkan waktu berulang-ulang
+*/
