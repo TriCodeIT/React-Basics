@@ -12,6 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+![basicsreact](https://user-images.githubusercontent.com/67305098/90318911-ed098c80-df5d-11ea-8f74-79167ac583af.jpg)
+
+![basicsreact2](https://user-images.githubusercontent.com/67305098/90318912-f266d700-df5d-11ea-8a30-3fbee2eed005.jpg)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
